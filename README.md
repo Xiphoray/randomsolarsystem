@@ -185,10 +185,6 @@ Clamped to [500, 2000]
 - [x] **Phase 3**: Static rendering
 - [x] **Phase 4**: Orbital motion
 - [x] **Phase 5**: UI polish & CRT effects
-- [ ] **Phase 6**: Rocket flight mechanics
-- [ ] **Phase 7**: Trajectory planning
-- [ ] **Phase 8**: Multi-system exploration
-
 ---
 
 ## 🤝 Contributing
@@ -224,4 +220,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 If you found this project helpful, please consider giving it a ⭐!
 
 </div>
+
 
