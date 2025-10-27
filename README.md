@@ -11,7 +11,7 @@
 [![Canvas API](https://img.shields.io/badge/Canvas_API-2D-blue)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 [![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
 
-[**Live Demo**](https://your-demo-url.com) • [Report Bug](https://github.com/yourusername/solar/issues) • [Request Feature](https://github.com/yourusername/solar/issues)
+[**Live Demo**](https://xiphoray.cn/zbored/) • [Report Bug](https://github.com/Xiphoray/randomsolarsystem/issues) • [Request Feature](https://github.com/Xiphoray/randomsolarsystem/issues)
 
 </div>
 
@@ -60,7 +60,7 @@ Simply open `indexwithjs.html` in any modern browser - no server required!
 
 ```bash
 # Download and open
-curl -O https://raw.githubusercontent.com/yourusername/solar/main/indexwithjs.html
+curl -O https://raw.githubusercontent.com/Xiphoray/randomsolarsystem/main/indexwithjs.html
 open indexwithjs.html  # macOS
 start indexwithjs.html  # Windows
 xdg-open indexwithjs.html  # Linux
@@ -224,3 +224,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 If you found this project helpful, please consider giving it a ⭐!
 
 </div>
+
