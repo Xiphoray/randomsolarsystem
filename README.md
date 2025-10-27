@@ -11,7 +11,7 @@
 [![Canvas API](https://img.shields.io/badge/Canvas_API-2D-blue)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 [![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
 
-[**Live Demo**](https://xiphoray.cn/zbored/) • [Report Bug](https://github.com/Xiphoray/randomsolarsystem/issues) • [Request Feature](https://github.com/Xiphoray/randomsolarsystem/issues)
+[**Live Demo**](https://xiphoray.cn/zbored/) • [Report Bug](https://github.com/Xiphoray/randomsolarsystem/issues) • [Request Feature](https://github.com/Xiphoray/randomsolarsystem/issues)• [中文](https://github.com/Xiphoray/randomsolarsystem/blob/main/README_zh-CN.md)
 
 </div>
 
@@ -220,5 +220,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 If you found this project helpful, please consider giving it a ⭐!
 
 </div>
+
 
 
